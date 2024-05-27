@@ -1,0 +1,15 @@
+SHGetDesktopFolder
+SHCreateShellFolderView
+IFolderView
+IColumnManager
+PSGetNameFromPropertyKey
+PSGetPropertyValue
+SHGetPropertyStoreFromParsingName
+IPropertyStore
+PSFormatForDisplay
+PropVariantClear
+CM_MASK
+IShellItem2
+SHCreateItemFromParsingName
+PSFormatForDisplayAlloc
+IShellView

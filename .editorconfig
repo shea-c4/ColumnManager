@@ -1,0 +1,13 @@
+﻿[*.cs]
+
+# IDE0210: Convert to top-level statements
+dotnet_diagnostic.IDE0210.severity = silent
+
+# CA1416: Validate platform compatibility
+dotnet_diagnostic.CA1416.severity = silent
+
+# CS8600: Converting null literal or possible null value to non-nullable type.
+dotnet_diagnostic.CS8600.severity = silent
+
+# CS8597: Thrown value may be null.
+dotnet_diagnostic.CS8597.severity = silent

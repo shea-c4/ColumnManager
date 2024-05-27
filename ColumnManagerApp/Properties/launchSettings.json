@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ColumnManagerCLI": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Windows"
+    }
+  }
+}
